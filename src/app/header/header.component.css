@@ -1,0 +1,59 @@
+.custom-nav-bar{
+    min-height: 70px !important;
+    max-height: 70px !important;
+    background: #FFF !important;
+    box-shadow: -6px 0 white, 6px 0 white, 0 3px 4px -3px #cecece;
+}
+
+.custom-nav-bar-ui li{
+    color:#26282C !important;
+}
+
+.custom-nav-bar-ui a{
+    color:#26282C !important;
+}
+
+.add-wallet-bal{
+    border: 2px solid #17E598;
+    border-radius: 5px;
+    width: 61px;
+    height: 29px;
+    margin: 0 20px;
+    background: #FFF;
+    line-height: 0px;
+}
+
+.wallet-balance{
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.custom-notification{
+    border-left: 1px solid #cecece;
+    padding-left: 1em;
+}
+
+.circleuserimage {
+    background: #2885FF;
+    width: 50px;
+    position: absolute;
+    height: 50px;
+    top: 10px;
+    border-radius: 50%;
+  }
+
+  .custom-name-email{
+      line-height: 0px;
+  }
+
+  .nav-username{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size:0.938em !important;
+    color: #26282C !important;
+  }
+
+  .nav-useremail{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size:0.938em !important;
+    color: #9DA9B4 !important;
+  }
